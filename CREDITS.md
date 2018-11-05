@@ -100,6 +100,12 @@ SrMurki
 
 ## PRODUCCIÓN ARTÍSTICA
 
+#### DISEÑADORES
+
+MagicalWriter
+
+MiguelDreamer
+
 #### FOTÓGRAFOS
 
 MagicalWriter
