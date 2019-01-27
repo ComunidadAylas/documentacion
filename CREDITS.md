@@ -44,6 +44,8 @@ MiguelDreamer
 
 SrMurki
 
+SuperJohan16
+
 refastron
 
 vito
@@ -72,29 +74,39 @@ SuperJohan16
 
 vito
 
+#### SISTEMAS DE REDSTONE
+
+MiguelDreamer
+
 - - -
 
 ## HISTORIA
 
 #### LÍDER CREATIVO
 
-refastron
+MiguelDreamer
 
 #### SUPERVISORES
 
-MagicalWriter
-
 MiguelDreamer
+
+MagicalWriter
 
 #### COLABORADORES
 
-TuSenpai
-
 MagicalWriter
 
-MiguelDreamer
+refastron
 
 SrMurki
+
+TuSenpai
+
+#### AYUDANTES
+
+SuperJohan16
+
+MK_MakroM
 
 - - -
 
