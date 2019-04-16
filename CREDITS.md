@@ -74,7 +74,9 @@ SuperJohan16
 
 vito
 
-#### SISTEMAS DE REDSTONE
+#### SISTEMAS DE REDSTONE O BLOQUES DE COMANDO
+
+AlexBlocks123
 
 MiguelDreamer
 
@@ -96,17 +98,13 @@ MagicalWriter
 
 MagicalWriter
 
-refastron
-
-SrMurki
-
-TuSenpai
-
 #### AYUDANTES
 
 SuperJohan16
 
 MK_MakroM
+
+refastron
 
 - - -
 
@@ -123,3 +121,13 @@ MiguelDreamer
 MagicalWriter
 
 MiguelDreamer
+
+- - -
+
+## AGRADECIMIENTOS
+
+#### DONANTES
+
+MagicalWriter
+
+SuperJohan16
