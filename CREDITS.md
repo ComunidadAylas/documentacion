@@ -16,21 +16,15 @@ AlexBlocks123
 
 #### PROBADORES, IDEADORES E INFORMANTES DE FALLOS
 
-AlexBlocks123
-
-MiguelDreamer
+AlexBlocks123, MiguelDreamer
 
 #### HUÉSPEDES DEL SERVIDOR
 
-AlexBlocks123
-
-MiguelDreamer
+AlexBlocks123, MiguelDreamer
 
 #### ADMINISTRADORES
 
-AlexBlocks123
-
-MiguelDreamer
+AlexBlocks123, MiguelDreamer
 
 - - -
 
@@ -42,47 +36,19 @@ MiguelDreamer
 
 #### CONSTRUCTORES
 
-SrMurki
-
-SuperJohan16
-
-refastron
-
-vito
+MK_MakroM, refastron, SuperJohan16, vito
 
 #### AYUDANTES
 
-AlexBlocks123
-
-Asuka-Chan
-
-DragarZKillerBSD
-
-H3Kz
-
-MagicalWriter
-
-MK_MakroM
-
-Nimasix1339
-
-refastron
-
-SrMurki
-
-SuperJohan16
-
-vito
+Aimar_Rubio, AlexBlocks123, Asuka-Chan, DragarZKillerBSD, H3Kz, MagicalWriter, MK_MakroM, Nimasix1339, refastron, virutasmanda, SuperJohan16, vito
 
 #### SISTEMAS DE REDSTONE O BLOQUES DE COMANDO
 
-AlexBlocks123
-
-MiguelDreamer
+AlexBlocks123, MiguelDreamer
 
 - - -
 
-## HISTORIA
+## HISTORIA / LORE
 
 #### LÍDER CREATIVO
 
@@ -90,9 +56,7 @@ MiguelDreamer
 
 #### SUPERVISORES
 
-MiguelDreamer
-
-MagicalWriter
+MiguelDreamer, MagicalWriter
 
 #### COLABORADORES
 
@@ -100,11 +64,7 @@ MagicalWriter
 
 #### AYUDANTES
 
-SuperJohan16
-
-MK_MakroM
-
-refastron
+SuperJohan16, MK_MakroM
 
 - - -
 
@@ -112,15 +72,15 @@ refastron
 
 #### DISEÑADORES
 
-MagicalWriter
-
-MiguelDreamer
+MagicalWriter, MiguelDreamer
 
 #### FOTÓGRAFOS
 
-MagicalWriter
+MagicalWriter, MiguelDreamer
 
-MiguelDreamer
+#### VOCES
+
+María del Pino Pozo, Rafael Ángel Luque Moyano
 
 - - -
 
@@ -128,6 +88,10 @@ MiguelDreamer
 
 #### DONANTES
 
-MagicalWriter
+MagicalWriter, MK_MakroM, SuperJohan16
 
-SuperJohan16
+#### AGRADECIMIENTOS ESPECIALES
+
+Gracias a todos aquellos que, directa o indirectamente, han respondido encuestas que se han realizado, han probado el servidor, han descubierto bugs y los han reportado, han pasado un buen rato con la Comunidad y han hecho que Khron esté donde esté:
+
+Aimar_Rubio, Horsefina, MagicalWriter, MK_MakroM, refastron, SuperJohan16, virutasmanda, vito, Witiza99
