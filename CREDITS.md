@@ -74,13 +74,21 @@ SuperJohan16, MK_MakroM
 
 MagicalWriter, MiguelDreamer
 
-#### FOTÓGRAFOS
+#### SPRITES DEL PACK DE RECURSOS DE KHRON
+
+AlexBlocks123, MagicalWriter, MiguelDreamer
+
+#### FOTÓGRAFOS DE KHRON
 
 MagicalWriter, MiguelDreamer, refastron
 
 #### VOCES
 
 María del Pino Pozo, Rafael Ángel Luque Moyano
+
+#### EFECTOS DE SONIDO DE KHRON
+
+AlexBlocks123, MiguelDreamer
 
 - - -
 
