@@ -1,6 +1,6 @@
 # Créditos
 
-A continuación se mostrará toda la gente que ha participado en el proyecto, ya sea con su nombre de usuario, pseudónimo o nombre real. Este documento se irá actualizando constantemente si hay nuevos cambios. Gracias a todos los que han colaborado y aportado su granito de arena.
+A continuación se mostrará toda la gente que ha participado en todos los proyectos de la Comunidad Aylas, ya sea con su nombre de usuario, pseudónimo o nombre real. Este documento se irá actualizando constantemente si hay nuevos cambios. Gracias a todos los que han colaborado y aportado su granito de arena.
 
 - - -
 
@@ -16,7 +16,7 @@ AlexBlocks123
 
 #### PROBADORES, IDEADORES E INFORMANTES DE FALLOS
 
-AlexBlocks123, MiguelDreamer
+AlexBlocks123, MiguelDreamer, SuperJohan16
 
 #### HUÉSPEDES DEL SERVIDOR
 
@@ -28,7 +28,7 @@ AlexBlocks123, MiguelDreamer
 
 - - -
 
-## CONSTRUCCIÓN
+## CONSTRUCCIÓN DE KHRON
 
 #### LÍDER CREATIVO
 
@@ -40,7 +40,7 @@ MK_MakroM, refastron, SuperJohan16, vito
 
 #### AYUDANTES
 
-Aimar_Rubio, AlexBlocks123, Asuka-Chan, DragarZKillerBSD, H3Kz, MagicalWriter, MK_MakroM, Nimasix1339, refastron, virutasmanda, SuperJohan16, vito
+Aimar_Rubio, AlexBlocks123, Asuka-Chan, DragarZKillerBSD, H3Kz, MagicalWriter, MK_MakroM, Nimasix1339, refastron, virutasmanda, Sidera_Tenebris, SuperJohan16, vito
 
 #### SISTEMAS DE REDSTONE O BLOQUES DE COMANDO
 
@@ -48,7 +48,7 @@ AlexBlocks123, MiguelDreamer
 
 - - -
 
-## HISTORIA / LORE
+## HISTORIA / LORE DE KHRON
 
 #### LÍDER CREATIVO
 
@@ -76,7 +76,7 @@ MagicalWriter, MiguelDreamer
 
 #### FOTÓGRAFOS
 
-MagicalWriter, MiguelDreamer
+MagicalWriter, MiguelDreamer, refastron
 
 #### VOCES
 
@@ -90,7 +90,7 @@ María del Pino Pozo, Rafael Ángel Luque Moyano
 
 MagicalWriter, MK_MakroM, SuperJohan16
 
-#### AGRADECIMIENTOS ESPECIALES
+#### AGRADECIMIENTOS ESPECIALES DE KHRON
 
 Gracias a todos aquellos que, directa o indirectamente, han respondido encuestas que se han realizado, han probado el servidor, han descubierto bugs y los han reportado, han pasado un buen rato con la Comunidad y han hecho que Khron esté donde esté:
 
