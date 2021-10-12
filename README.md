@@ -1,3 +1,5 @@
+<p align="center"><img width="333" height="271" src="https://media.discordapp.net/attachments/123920670265573376/761944310127001600/logo_amplio_letras_transparente.png"></p>
+
 # Documentación de Comunidad Aylas
 En este repositorio se encuentra la documentación de la Comunidad Aylas cuya edición es colaborativa entre aquellos que tengan la responsabilidad de editarla. Esta documentación puede usarse para otros proyectos de la Comunidad, como por ejemplo sus repositorios en GitHub.
 
