@@ -99,7 +99,7 @@ Aimar_Rubio, Horsefina, MagicalWriter, MK_MakroM, refastron, Sidera_Tenebris, Su
 <p align="center"><img src="https://user-images.githubusercontent.com/31966940/124388201-1f40eb80-dce2-11eb-88e8-3934d7d73c0a.png" alt="PackSquash logo" width="300" height="300"></p>
 <p align="center"><i>Crea más. Preocúpate menos por las complejidades de la distribución y el almacenamiento. </i></p>
 
-## PROGRAMACIÓN
+## DESARROLLO SOFTWARE
 
 #### ANALISTA PROGRAMADOR Y DISEÑADOR DE SISTEMAS
 
@@ -107,7 +107,7 @@ AlexBlocks123
 
 #### PROGRAMADORES
 
-AlexBlocks123, sya-ri
+sya-ri
 
 ## PRODUCCIÓN ARTÍSTICA
 
