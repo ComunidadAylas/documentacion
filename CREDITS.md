@@ -2,10 +2,29 @@ A continuación se mostrará toda la gente que ha participado en todos los proye
 
 - - -
 
-# DISCORD
+# COMUNIDAD AYLAS
 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/38165202" alt="Comunidad Aylas logo" width="33%"></p>
 <p align="center"><i>Tenemos una pasión común por los videojuegos, la informática y muchos otros temas, ¡pero sobre todo nos gusta pasarlo bien!</i></p>
+
+## LÍDERES
+
+MiguelDreamer, AlexTMjugador
+
+MiguelDreamer fundó originalmente y estableció una comunidad activa en el juego CrossFire en el año 2011. Poco después, con la ayuda de AlexTMjugador, Aylas ha ido evolucionando durante todos estos años hasta la comunidad que es ahora.
+
+## PRODUCCIÓN ARTÍSTICA
+
+#### DISEÑADORES DEL LOGO
+
+MiguelDreamer, Víctor García
+
+¡Gracias a Víctor García por hacer realidad el logo de Aylas!
+
+# DISCORD
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/431492337290575882/1116428425297666098/image.png" alt="Imagen de Discord" width="33%"></p>
+<p align="center"><i>Nuestro Discord es nuestra principal vía de comunicación para hablar de cualquier tema y tener contacto entre nosotros.</i></p>
 
 ## ADMINISTRACIÓN
 
@@ -21,7 +40,7 @@ Wølfhan
 
 Gracias a todas aquellas personas que mejoran o han mejorado el servidor:
 
-AlexTMjugador, C. Bougainvillea, Maese Tabit, MiguelDreamer, MK_MakroM, refastron, Wølfhan
+Aimar_Rubio, AlexTMjugador, C. Bougainvillea, Maese Tabit, MiguelDreamer, MK_MakroM, refastron, Wølfhan
 
 - - -
 
@@ -117,11 +136,21 @@ Aimar_Rubio, Flamenking, Horsefina, MagicalWriter, MK_MakroM, Murki, refastron, 
 
 MiguelDreamer, SuperJohan16
 
-Una idea original de SuperJohan16.
+La creación e idea original de Khron Clicker fue de SuperJohan16. Comunidad Aylas, que vio el proyecto con potencial, lo acabó acogiendo.
 
-## SPRITES E ICONOS
+## PRODUCCIÓN ARTÍSTICA
+
+#### DISEÑADOR DEL LOGO
+
+MiguelDreamer
+
+#### SPRITES E ICONOS
 
 MagicalWriter, MiguelDreamer, SuperJohan16
+
+## BETA TESTERS
+
+Aimar_Rubio, AlexTMjugador, MiguelDreamer, SuperJohan16
 
 - - -
 
